@@ -14,5 +14,5 @@ jobs:
           readme-oas-key: 3tTGDjvzt6Cf7rf5uqHypvoVl58KhTOK:61d5b416556524b504cd23c6
            
           # OPTIONAL CONFIG, use if necessary
-          oas-file-path: './worklist.yaml'
+          oas-file-path: '../../worklist.yaml'
           # api-version: 'v1.0.0'
